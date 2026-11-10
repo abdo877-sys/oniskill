@@ -1,0 +1,9 @@
+{
+  "name": "oniskill",
+  "displayName": "OniSkill",
+  "version": "1.0.0",
+  "description": "Moteur de mission pour Claude Code : planification, délégation à trois agents, vérification par preuves, checkpoints, reprise et garde de sécurité.",
+  "author": { "name": "OniSkill" },
+  "license": "MIT",
+  "keywords": ["mission", "orchestration", "agents", "verification", "securite"]
+}

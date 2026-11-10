@@ -1,0 +1,12 @@
+{
+  "name": "oniskill",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Plugin Claude Code : moteur de mission OniSkill",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "test": "node --test",
+    "doctor": "node scripts/oniskill.mjs doctor"
+  }
+}
